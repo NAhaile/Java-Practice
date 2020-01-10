@@ -1,9 +1,9 @@
 public class String1 {
-	public static void main(Stirng args[]) {
+ public static void main(String args[]) {
 
-	String name = "Nate";
+ String name = "Nate";
 
-	System.out.println(name)
+ System.out.println(name);
 
 }
 
