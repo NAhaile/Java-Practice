@@ -1,7 +1,8 @@
 public class Person {
 
-	int age;
-	String name;
+ int age;
+ String name;
+ double height;
 
 
 
