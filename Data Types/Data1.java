@@ -11,6 +11,7 @@ public class Data1 {
     float thing7 = 0.0f; //<------- this has a size of 32 bits // and is a float // range in the millions
     double thing8 = 0.0d; //<------- this has a size of 64 bits // and acts as a float // range in the billions and trillions
    
+    //and here we are just printing out the values onto the screen
     System.out.println(thing);
     System.out.println(thing2);
     System.out.println(thing3);
