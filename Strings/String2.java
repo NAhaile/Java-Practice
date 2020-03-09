@@ -3,7 +3,7 @@ public class String2 {
 
  String name = "Nate";
 
- System.out.println("Hello Person, My Name is:" + " " + name);
+ System.out.println("Hello Person, My Name is:" + " " + name); //<---- Concatination 
 
 }
 
