@@ -14,7 +14,7 @@ public class String3 {
    }
    
 
-   System.out.println(" --> Enhanced For Loop ");
+   System.out.println(" --> Enhanced For Loop "); //<--- also using the size of an array just in a different way
    for(String i:name) { 
      System.out.println(i);
    }
