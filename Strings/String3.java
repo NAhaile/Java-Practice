@@ -29,7 +29,7 @@ public class String3 {
    int i = 0;
    while(i<name.size()) { // <--- this will get every string
      System.out.println(name.get(i));
-     i++;  // <----- Incrementing I to keep going in the while loop
+     i++;  // <----- Incrementing I to keep going in the while loop(i++ being after the first time i is called upon)
    }
    
    
